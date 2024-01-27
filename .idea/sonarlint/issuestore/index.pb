@@ -21,3 +21,15 @@ G
 lesson1/test.py,4\c\4c4526224418b2d3af79f07a9222686eff84c12d
 J
 lesson1/lesson_2_task_1.py,5\f\5f07de012ac6c3d20dc8c987fa7307156bbb832e
+E
+lesson1/smartphone.py,4\2\42921b85234f1b145feaea8381ec5b2e2072a521
+E
+classes/smartphone.py,7\8\784ced0a22b6860b78be73526085ad1faf7c3fea
+J
+lesson1/lesson_2_task_2.py,6\5\65d738e024a4acb3a70b5b705802a07a423bc860
+J
+lesson2/lesson_2_task_2.py,4\1\411e170fa0f46e1ce23b84196aee60a231e8c297
+B
+classes/address.py,9\e\9ef064f0032bc0034f28ce8f574890096a4f5c77
+J
+lesson2/lesson_2_task_3.py,3\3\33c05e19c3452013cee52b89272a2f7af0d6cbe8
