@@ -33,3 +33,7 @@ B
 classes/address.py,9\e\9ef064f0032bc0034f28ce8f574890096a4f5c77
 J
 lesson2/lesson_2_task_3.py,3\3\33c05e19c3452013cee52b89272a2f7af0d6cbe8
+M
+lesson3/creating_functions.py,d\1\d14fc3cbe7e207a5c85701fa0a47f6a8105c02ff
+Q
+!lesson3/parametrized_functions.py,5\4\54960d140573f4ec10d1862d5c2742d82ed7f9d2
