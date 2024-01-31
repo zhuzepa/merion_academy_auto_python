@@ -37,3 +37,11 @@ M
 lesson3/creating_functions.py,d\1\d14fc3cbe7e207a5c85701fa0a47f6a8105c02ff
 Q
 !lesson3/parametrized_functions.py,5\4\54960d140573f4ec10d1862d5c2742d82ed7f9d2
+B
+lesson3/methods.py,9\6\968d7223df28d3fa5168e8e126ce2064a6dc1b3a
+A
+classes/player.py,e\9\e97595d2e9166808c3b4a07aae2d2814f4b4fd17
+A
+lesson3/scopes.py,6\0\60d94104bc7b09c0c11752653bbae90d58b3f0a9
+E
+lesson3/call_stack.py,f\3\f356e43530dcd9b46f4169b10f06b187f359d6d8
