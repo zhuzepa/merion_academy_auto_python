@@ -1,3 +1,4 @@
+x = 1
 def funca():
     y = 2
     print("Начали делать A")

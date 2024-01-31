@@ -45,3 +45,7 @@ A
 lesson3/scopes.py,6\0\60d94104bc7b09c0c11752653bbae90d58b3f0a9
 E
 lesson3/call_stack.py,f\3\f356e43530dcd9b46f4169b10f06b187f359d6d8
+E
+lesson3/recrusrion.py,4\6\464017692456c1f439bdc669cbad8fa422aa23ba
+A
+merion_hw/test.py,e\3\e3e22c3b8421224d3d365fda3d666b918bf334bb
