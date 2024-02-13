@@ -61,3 +61,17 @@ D
 lesson4/lists.py,5\e\5e407e856485b7f28c5b8b5a3a6f6a04d822f54d
 A
 lesson4/player.py,2\7\27ab8cd8acb33fe8983cc4bbb4a76898187b1df1
+@
+lesson4/loops.py,6\8\68de0683ed4e7e6495aca16f420a44eb277286c0
+D
+merion_hw/hw4/hw2.py,7\5\752cfc6ec9214c9528565db404f21f56cfc31ff8
+D
+merion_hw/hw4/hw3.py,9\b\9bddf7291e022613f57e4fbcfaeae48bb63146dc
+D
+merion_hw/hw4/hw4.py,4\d\4d42c23478cafac0cb41f155fe01e982c18ec280
+D
+merion_hw/hw4/hw5.py,e\9\e94f7b8761f7b008ec75677288b5a617af8d2ecb
+D
+merion_hw/hw4/hw6.py,0\5\05e0d1b8bc3ac2902458b71e482c093d3aa38b4a
+D
+merion_hw/hw4/hw7.py,d\4\d4d8c3a5ee270dab7dd9c869122d66ac330624d3
