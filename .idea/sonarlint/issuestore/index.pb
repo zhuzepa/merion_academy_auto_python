@@ -93,3 +93,11 @@ E
 merion_hw/hw4/hw14.py,5\c\5c90fa1b3e5d560192cafea246cd920ad960bf2f
 E
 merion_hw/hw4/hw15.py,9\7\97308191326d3f54eb9726559fbd5334aa446bcb
+=
+lesson5/if.py,6\a\6a531e453406cbbd9ff7c18e30f101a4fd737b1d
+B
+lesson5/if_else.py,2\9\2923afe193749df41ba946cde7c8e7d78b58bf03
+D
+lesson5/if_else_2.py,5\a\5ab4ce54654957553df66b3ad15e8d0140b6aa73
+?
+lesson5/elif.py,6\0\608db4a305cc9c99b54c4463a933b423cbb75e87
