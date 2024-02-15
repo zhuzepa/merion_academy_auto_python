@@ -101,3 +101,11 @@ D
 lesson5/if_else_2.py,5\a\5ab4ce54654957553df66b3ad15e8d0140b6aa73
 ?
 lesson5/elif.py,6\0\608db4a305cc9c99b54c4463a933b423cbb75e87
+D
+lesson5/algoritms.py,4\8\48e386d38ec312717ee9d763dbec4993bbd83856
+F
+lesson5/algoritms_2.py,d\7\d78b2574234f5dd7f2c631fff34fd90a51a6187b
+F
+lesson5/algoritms_3.py,d\1\d14c191add6606ab86f70e2a022c6bf0151f2741
+F
+lesson5/algoritms_4.py,b\8\b876ca9806f90b24fb5434b417b845c01d79f025
