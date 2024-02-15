@@ -101,3 +101,6 @@ D
 lesson5/if_else_2.py,5\a\5ab4ce54654957553df66b3ad15e8d0140b6aa73
 ?
 lesson5/elif.py,6\0\608db4a305cc9c99b54c4463a933b423cbb75e87
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
