@@ -167,3 +167,6 @@ E
 home_work/hw5/hw12.py,7\a\7a04c17ad444a37d3808545121027d0e33135182
 E
 home_work/hw5/hw15.py,5\0\50c7f026fe98ee8370204ea6b5190eec00a37b31
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
