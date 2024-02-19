@@ -18,3 +18,7 @@ T
 $lessons/lesson6/starting_selenium.py,7\4\7437a10844d4e979c92373aa8d6af34944f8e3ca
 S
 #lessons/lesson6/dynamic_controls.py,3\3\33c252b07ee5fb4bd6a8eaa6426ee52ffff0e532
+I
+lessons/lesson6/inputs.py,c\8\c890ac9c07d5cb854ca5a14c65fe2289f1638277
+I
+lessons/lesson6/2048_2.py,e\d\ed8d67c1e808cdb53e13c42b4b3e550ca11072d3
