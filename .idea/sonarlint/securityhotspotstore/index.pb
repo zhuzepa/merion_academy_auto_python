@@ -22,3 +22,5 @@ I
 lessons/lesson6/inputs.py,c\8\c890ac9c07d5cb854ca5a14c65fe2289f1638277
 I
 lessons/lesson6/2048_2.py,e\d\ed8d67c1e808cdb53e13c42b4b3e550ca11072d3
+S
+#lessons/lesson6/text_and_tagname.py,8\a\8a46f0d5a45bca8bb5ddb4ddaed8bc4e76edb50d
