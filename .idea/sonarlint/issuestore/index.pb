@@ -44,3 +44,7 @@ F
 +lessons/lesson7/visible_enabled_selected.py,1\9\19d00bd65fad63accef9e8183d0893628afc3df4
 D
 home_work/hw6/hw1.py,1\e\1ea30c6d062d14f3dfdfa16bc5394ee557839a5e
+D
+home_work/hw6/hw2.py,3\a\3ae93de294f6964b09abdb6af159dce0a09cae77
+D
+home_work/hw6/hw3.py,4\9\49bf72a8f39959e71983eb95345d16f614de6653
