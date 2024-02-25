@@ -42,3 +42,5 @@ F
 lessons/lesson7/css.py,6\c\6ca0e7db1e1e17d88588f9b4a7b405b0b8412bfd
 [
 +lessons/lesson7/visible_enabled_selected.py,1\9\19d00bd65fad63accef9e8183d0893628afc3df4
+D
+home_work/hw6/hw1.py,1\e\1ea30c6d062d14f3dfdfa16bc5394ee557839a5e
