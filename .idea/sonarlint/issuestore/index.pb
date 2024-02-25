@@ -48,3 +48,13 @@ D
 home_work/hw6/hw2.py,3\a\3ae93de294f6964b09abdb6af159dce0a09cae77
 D
 home_work/hw6/hw3.py,4\9\49bf72a8f39959e71983eb95345d16f614de6653
+D
+home_work/hw6/hw4.py,2\8\288086f1c22256d253ada951ce236517fbdc5fcd
+D
+home_work/hw6/hw5.py,f\f\ffd8b05cc0eb3022d1660bd50b952fd73653775c
+D
+home_work/hw6/hw6.py,d\6\d61d8fc7c09691fd83b116e6604bf90e05bd5cc5
+D
+home_work/hw6/bw7.py,2\0\20d70c609d8fe89b784e0545fa2286789d9f68a6
+D
+home_work/hw6/hw7.py,6\2\623ef36ec4f345a5cca974f4b2d4b6706cc1e38d
