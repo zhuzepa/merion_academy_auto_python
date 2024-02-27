@@ -66,3 +66,5 @@ B
 lessons/lesson8.py,0\f\0f0db68f42b3e57a5ef0d8298641709caa649587
 M
 lessons/lesson8/login_page.py,b\f\bff293bf9b2050720650cea3c08a1e5f85e148ae
+M
+lessons/lesson8/to_do_list.py,3\b\3bd8fdb23d61693870d18b550f52abf52482c653
