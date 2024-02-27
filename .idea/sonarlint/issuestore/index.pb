@@ -58,3 +58,13 @@ D
 home_work/hw6/bw7.py,2\0\20d70c609d8fe89b784e0545fa2286789d9f68a6
 D
 home_work/hw6/hw7.py,6\2\623ef36ec4f345a5cca974f4b2d4b6706cc1e38d
+<
+test_mapp.py,a\e\ae61cf5f0022fee9ec5153901355d8028858913e
+6
+map.py,0\b\0b880f7499f97b2fbf132397a8074e334d012416
+B
+lessons/lesson8.py,0\f\0f0db68f42b3e57a5ef0d8298641709caa649587
+M
+lessons/lesson8/login_page.py,b\f\bff293bf9b2050720650cea3c08a1e5f85e148ae
+M
+lessons/lesson8/to_do_list.py,3\b\3bd8fdb23d61693870d18b550f52abf52482c653
