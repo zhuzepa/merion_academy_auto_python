@@ -11,3 +11,4 @@ for todo_list in todo_lists:
     print(todo_list.text)
 
 browser.quit()
+
