@@ -68,3 +68,7 @@ M
 lessons/lesson8/login_page.py,b\f\bff293bf9b2050720650cea3c08a1e5f85e148ae
 M
 lessons/lesson8/to_do_list.py,3\b\3bd8fdb23d61693870d18b550f52abf52482c653
+J
+classes/price_car_class.py,4\f\4f32bcee9e544c460019c5cf0aef0a99b60a54c5
+?
+classes/user.py,c\d\cd6c17f158f1a134f5cccc3b799971fa054dade3
