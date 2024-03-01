@@ -25,6 +25,8 @@ I
 S
 #lessons/lesson6/text_and_tagname.py,8\a\8a46f0d5a45bca8bb5ddb4ddaed8bc4e76edb50d
 T
+$lessons/lesson6/location_adn_size.py,b\e\beb902f137ff5c5a5c5b11fd0f239f4117aa654f
+T
 $lessons/lesson6/location_and_size.py,6\b\6b0a9e29bee8b6fade2db2af5fee8bd3cc6a2592
 A
 home_work/test.py,c\b\cb2654807f370357fd7a114619025339a9bb6b51
@@ -32,6 +34,8 @@ I
 home_work/first_script.py,c\9\c9e6e080acbc671bb1d870ef5f171bca752ccef5
 7
 test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
+M
+lessons/lesson7/click_copy.py,a\d\adaafa7f2dc5e0f627f327742c872e3afe866b00
 \
 ,lessons/lesson7/attributes_and_properties.py,3\d\3d7c166f7a327b28ac6343196c77be54fa601f09
 F
@@ -51,11 +55,23 @@ D
 D
 home_work/hw6/hw6.py,d\6\d61d8fc7c09691fd83b116e6604bf90e05bd5cc5
 D
+home_work/hw6/bw7.py,2\0\20d70c609d8fe89b784e0545fa2286789d9f68a6
+D
 home_work/hw6/hw7.py,6\2\623ef36ec4f345a5cca974f4b2d4b6706cc1e38d
+<
+test_mapp.py,a\e\ae61cf5f0022fee9ec5153901355d8028858913e
+6
+map.py,0\b\0b880f7499f97b2fbf132397a8074e334d012416
+B
+lessons/lesson8.py,0\f\0f0db68f42b3e57a5ef0d8298641709caa649587
 M
 lessons/lesson8/login_page.py,b\f\bff293bf9b2050720650cea3c08a1e5f85e148ae
 M
 lessons/lesson8/to_do_list.py,3\b\3bd8fdb23d61693870d18b550f52abf52482c653
+J
+classes/price_car_class.py,4\f\4f32bcee9e544c460019c5cf0aef0a99b60a54c5
+?
+classes/user.py,c\d\cd6c17f158f1a134f5cccc3b799971fa054dade3
 N
 lessons/lesson8/progressbar.py,c\9\c910ea8eb2e5f42c503c2f9427d360935bf001fd
 R
