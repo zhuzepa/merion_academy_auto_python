@@ -21,3 +21,9 @@ G
 home_work/hw7/hw3_v2.py,0\7\07989641923cbcf754cc484b11e202431d1724ac
 D
 home_work/hw7/hw4.py,7\4\74f31f8861bdf2e152eb10e1de5b367d5fa2bf09
+D
+home_work/hw7/hw5.py,e\a\ea464c570d3006722f63b12ad2f59e3853236af9
+D
+home_work/hw7/hw6.py,c\9\c910487d23e1709744ec18a9b521cb636d12e116
+G
+home_work/hw7/hw6_v2.py,3\0\30584a4a89e52a2841223ef475e6f9cde15ee4b2

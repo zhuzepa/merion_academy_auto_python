@@ -22,3 +22,4 @@ browser.implicitly_wait(10)
 award = browser.find_element(By.CSS_SELECTOR, '#award').get_dom_attribute('src')
 print(award)
 
+browser.quit()

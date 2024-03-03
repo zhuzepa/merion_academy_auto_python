@@ -50,5 +50,4 @@ color_zip = browser.find_element(By.CSS_SELECTOR, '#zip-code').value_of_css_prop
 
 print(color_zip)
 
-
 browser.quit()

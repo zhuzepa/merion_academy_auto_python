@@ -24,3 +24,5 @@ waiter = WebDriverWait(browser, 10, 1)
 waiter.until(EC.presence_of_element_located((By.CSS_SELECTOR, '#award')))
 award = browser.find_element(By.CSS_SELECTOR, '#award').get_dom_attribute('src')
 print(award)
+
+browser.quit()

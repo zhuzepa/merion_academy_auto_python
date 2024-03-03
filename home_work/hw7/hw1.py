@@ -16,9 +16,11 @@ from selenium.webdriver.common.by import By
 
 browser = webdriver.Chrome()
 browser.get('http://uitestingplayground.com/ajax')
+browser.implicitly_wait(20)
 
 browser.find_element(By.CSS_SELECTOR, '#ajaxButton').click()
-browser.implicitly_wait(20)
 
 text_ajax = browser.find_element(By.CSS_SELECTOR, '.bg-success').text
 print(text_ajax)
+
+browser.quit()
