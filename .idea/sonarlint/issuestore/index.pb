@@ -27,3 +27,13 @@ D
 home_work/hw7/hw6.py,c\9\c910487d23e1709744ec18a9b521cb636d12e116
 G
 home_work/hw7/hw6_v2.py,3\0\30584a4a89e52a2841223ef475e6f9cde15ee4b2
+E
+lessons/lesson1/qa.py,c\a\ca31ba13cbe3479d5a1d8c7f9d8c5babbd14cf5a
+G
+lessons/lesson1/test.py,9\0\909bc111f9e2c54efb0693e46396f2a7204429ff
+N
+lessons/lesson1/car_catalog.py,3\c\3c64f15326127af17f9f4ecba5a42aea052d824c
+S
+#lessons/lesson9/keyboard_actions.py,d\4\d4861203dba629672649654398cd17415d8ccff7
+T
+$lessons/lesson9/keyboard_cations2.py,6\e\6ecf4a0f2aff7b6647e00d7efb54e85f0c7d3a28
