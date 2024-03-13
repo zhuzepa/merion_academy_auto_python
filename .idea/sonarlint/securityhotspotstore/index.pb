@@ -37,3 +37,7 @@ S
 #lessons/lesson9/keyboard_actions.py,d\4\d4861203dba629672649654398cd17415d8ccff7
 T
 $lessons/lesson9/keyboard_cations2.py,6\e\6ecf4a0f2aff7b6647e00d7efb54e85f0c7d3a28
+P
+ lessons/lesson9/mouse_actions.py,8\d\8d3d73937945ff7064c86c41fc1a425952228965
+K
+lessons/lesson10/script1.py,8\3\838fce2e212eb94f355e1bc821106308ba8bde9e
