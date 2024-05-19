@@ -45,3 +45,5 @@ K
 test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
 L
 lessons/lesson11/script_1.py,1\3\13e6324c3102574621793188abfe5b56270d18be
+L
+lessons/lesson11/script_2.py,d\4\d4204243476a210449e2c89398820dd39a3da721
