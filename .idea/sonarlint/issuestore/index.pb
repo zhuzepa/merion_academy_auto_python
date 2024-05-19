@@ -7,8 +7,6 @@ M
 lessons/lesson8/login_page.py,b\f\bff293bf9b2050720650cea3c08a1e5f85e148ae
 M
 lessons/lesson8/to_do_list.py,3\b\3bd8fdb23d61693870d18b550f52abf52482c653
-@
-home_work/hw7.py,f\5\f510481f2cea7d9750df1c42921aba3f6b3a7314
 D
 home_work/hw7/hw1.py,9\0\9035e87e28304ea007251f0937c7ecebcb31b39b
 G
@@ -41,3 +39,9 @@ P
  lessons/lesson9/mouse_actions.py,8\d\8d3d73937945ff7064c86c41fc1a425952228965
 K
 lessons/lesson10/script1.py,8\3\838fce2e212eb94f355e1bc821106308ba8bde9e
+9
+	test.json,0\8\0866e153dfcc6bd976c2117b14bbaec292d57f78
+7
+test.py,a\3\a36e355ddb203d7d4133221f339dc406cb9f480f
+L
+lessons/lesson11/script_1.py,1\3\13e6324c3102574621793188abfe5b56270d18be
