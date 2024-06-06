@@ -47,3 +47,15 @@ L
 lessons/lesson11/script_1.py,1\3\13e6324c3102574621793188abfe5b56270d18be
 L
 lessons/lesson11/script_2.py,d\4\d4204243476a210449e2c89398820dd39a3da721
+R
+"lessons/lesson11/pages/MainPage.py,3\d\3d6ec39f5c53c4829bf1730a5280cc859513528e
+R
+"lessons/lesson11/pages/BasePage.py,0\6\06898ba6bda20544cc16c007b42488531342c4b1
+R
+"lessons/lesson11/pages/BookPage.py,f\a\fab400d914dd652b36e22ef030beefaabe7c6b8b
+P
+ lessons/lesson11/pages/Header.py,4\8\48294f983f028869408f3e607c25c93a53740d96
+T
+$lessons/lesson11/pages/ResultPage.py,f\2\f2264507d50977383ad400d4f3849d608321c9dc
+Q
+!lessons/lesson11/DriverManager.py,0\2\02b24ebfea917ff1c53ac4364b1246820a079bff
