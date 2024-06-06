@@ -73,3 +73,25 @@ P
  home_work/hw11/pages/MainPage.py,7\e\7e73a63ec1bf24a474ab705a906fedbc7d3ac339
 R
 "home_work/hw11/pages/ResultPage.py,7\8\780a2eb52299e14e97ea342a6052502221b56ca7
+N
+home_work/hw8/rename_button.py,1\0\109e35643655a5b7f8ec043b0ba62d7a3a99ac7d
+O
+home_work/hw8/pages/BasePage.py,a\4\a4a9fb98a275cd8031e534d60d9b04afe5448168
+Q
+!home_work/hw8/pages/ResultPage.py,d\b\db9f0db4bcde9ed1bae3660cba5f663c689aa952
+O
+home_work/hw8/task1/MainPage.py,1\2\1263c6c91e6f36f05bca37827441be2a994ae4e8
+T
+$home_work/hw8/task1/rename_button.py,7\7\77704157d72e4599228d1de00f7939555fffd65a
+Q
+!home_work/hw8/task2/input_from.py,7\4\7447887d7c31728c7a563953e0fb8f107f6d5ab2
+O
+home_work/hw8/task2/MainPage.py,d\8\d8262bb12e00d07a5069bf9f1d60a4aabd214c1d
+K
+home_work/hw8/task1/page.py,6\c\6c7fef3a8b4018c8f29c25fbe60c384dddcb13ac
+K
+home_work/hw8/task1/main.py,2\b\2b92603e0c14c534080832e2b3d4a181963fc5ec
+K
+home_work/hw8/task2/form.py,8\b\8b7772650748af6fb1879a36055815f1289bc4b6
+K
+home_work/hw8/task2/main.py,a\f\af88f3c3e2b80f774e1b3f3211f20523d920749a
