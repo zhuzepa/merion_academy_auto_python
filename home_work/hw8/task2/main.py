@@ -20,5 +20,5 @@ zipcod = form.get_background_color('#zip-code', 'background-color')
 email = form.get_background_color('#e-mail', 'background-color')
 phone = form.get_background_color('#phone', 'background-color')
 
-print(zipcod, email, phone, end='\n')
+print(zipcod, email, phone, sep='\n')
 driver.quit()
