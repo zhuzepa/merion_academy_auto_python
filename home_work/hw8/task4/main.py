@@ -7,4 +7,6 @@ purch = Purchase(driver)
 purch.open()
 purch.auth('standard_user', 'secret_sauce')
 
+purch.add_items()
+purch.checkout()
 driver.quit()
