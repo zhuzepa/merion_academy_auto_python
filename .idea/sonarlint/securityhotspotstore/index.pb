@@ -77,3 +77,15 @@ O
 home_work/hw8/task4/purchase.py,7\0\70d8fdaed33e1709c9f2b375ae42cc697a9bd522
 K
 home_work/hw8/task4/main.py,c\a\ca84d17f57e51faa0e8d1279369bd6d1e8580d83
+V
+&home_work/hw8/task4_part2/auth_page.py,f\0\f0bbd0a9379e1c8d55ea6ede3db88fa58d8e4dea
+Y
+)home_work/hw8/task4_part2/catalog_page.py,1\7\1733f5ed9c6ca153bdbf5f0954fe62458bc38673
+Q
+!home_work/hw8/task4_part2/main.py,9\7\97a65aa4e48d4e442e6eb93421a0750b0d66e599
+V
+&home_work/hw8/task4_part2/cart_page.py,5\2\527ea25f04f1a5f070d497d4d9712cec2adfe6ec
+Y
+)home_work/hw8/task4_part2/contact_page.py,4\c\4cc7e94fc6f63c7bb086d11e3c2d23f8199935b4
+W
+'home_work/hw8/task4_part2/final_page.py,6\c\6ce65e4c8cec64bee4415c1cf162083dc73b203f
