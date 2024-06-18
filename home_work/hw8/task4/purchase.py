@@ -1,7 +1,5 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
 
 
 class Purchase:
@@ -28,3 +26,13 @@ class Purchase:
     def checkout(self):
         self.driver.find_element(By.CSS_SELECTOR, '.shopping_cart_link').click()
         self.driver.find_element(By.CSS_SELECTOR, '#checkout').click()
+
+    def user_date(self, first_name: str, last_name: str, zipp: int):
+        self.driver.find_element(By.CSS_SELECTOR, '#first-name').send_keys(first_name)
+        self.driver.find_element(By.CSS_SELECTOR, '#last-name').send_keys(last_name)
+        self.driver.find_element(By.CSS_SELECTOR, '#postal-code').send_keys(zipp)
+        self.driver.find_element(By.CSS_SELECTOR, '#continue').click()
+
+    def total_price(self):
+        total = self.driver.find_element(By.CSS_SELECTOR, '.summary_total_label').text
+        return total

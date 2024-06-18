@@ -9,4 +9,6 @@ purch.auth('standard_user', 'secret_sauce')
 
 purch.add_items()
 purch.checkout()
+purch.user_date('Gomer', 'Simson', 777777)
+print(purch.total_price())
 driver.quit()
