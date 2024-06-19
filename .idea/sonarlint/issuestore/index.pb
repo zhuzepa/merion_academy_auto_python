@@ -89,3 +89,7 @@ Y
 )home_work/hw8/task4_part2/contact_page.py,4\c\4cc7e94fc6f63c7bb086d11e3c2d23f8199935b4
 W
 'home_work/hw8/task4_part2/final_page.py,6\c\6ce65e4c8cec64bee4415c1cf162083dc73b203f
+M
+lessons/lesson14/auth_test.py,1\5\153ced1bd218349d7a86f83910d127ab5dab0246
+I
+lessons/lesson6/2048_2.py,e\d\ed8d67c1e808cdb53e13c42b4b3e550ca11072d3
