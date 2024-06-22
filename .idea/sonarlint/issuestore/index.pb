@@ -69,8 +69,6 @@ K
 home_work/hw8/task2/main.py,a\f\af88f3c3e2b80f774e1b3f3211f20523d920749a
 K
 home_work/hw8/task3/main.py,f\3\f3e6633babca25082c9debb2cf8927c5e59c9971
-O
-home_work/hw8/task3/form_cal.py,5\6\56f71d2e5e2057887e3ebb99aaa5953c2e02f0ed
 Q
 !home_work/hw8/task3/calculator.py,a\0\a0965cbbff30a084ff05805143d8a4b4e9c6c6be
 O
