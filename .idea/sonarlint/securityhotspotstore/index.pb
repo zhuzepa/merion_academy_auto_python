@@ -91,3 +91,8 @@ M
 lessons/lesson14/auth_test.py,1\5\153ced1bd218349d7a86f83910d127ab5dab0246
 I
 lessons/lesson6/2048_2.py,e\d\ed8d67c1e808cdb53e13c42b4b3e550ca11072d3
+:
+
+pytest.ini,e\a\ea898f73cf4daab2e41a2c710093f364ce6a7d1b
+O
+lessons/lesson14/auth_test_1.py,2\1\21211c32dd2185b5ac84375dc631109c31597d67
