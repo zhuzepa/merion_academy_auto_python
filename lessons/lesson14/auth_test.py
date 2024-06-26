@@ -1,7 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import pytest
 
 
+@pytest.mark.xfail(reason="Временно недоступен")
 def test_login_auth():
     """Тест, где проверяем успешную авторизацию.
     Должен отображаться текст You logged onto a secure area!"""
@@ -23,10 +25,11 @@ def test_login_auth():
     driver.quit()
 
     assert attribute_href.endswith("/logout")
-    assert logged.startswith("You logged into a secure area!")
+    assert logged.startswith("1You logged into a secure area!")
     assert logout == "Logout"
 
 
+@pytest.mark.smoke
 def test_password_invalid():
     driver = webdriver.Firefox()
     driver.get("https://the-internet.herokuapp.com/login")
@@ -51,4 +54,4 @@ def test_login_invalid():
     log_invalid = driver.find_element(By.CSS_SELECTOR, "#flash").text
     driver.quit()
 
-    assert log_invalid.startswith("1Your username is invalid!")
+    assert log_invalid.startswith("Your username is invalid!")
