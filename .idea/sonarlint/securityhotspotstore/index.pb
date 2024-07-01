@@ -100,3 +100,7 @@ O
 conftest.py,1\e\1e4f0373b798e1c815760b0d5b71eed49df13ea5
 M
 lessons/lesson15/ebay_test.py,6\a\6aabcb20648e1228927ff8cffd2a1421b0aad9eb
+R
+"home_work/hw9/task1/test_button.py,a\e\aec56583e95db4344595feac09e59349a6d5026b
+K
+home_work/hw9/task1/page.py,e\e\ee6996a1038ffdb9e7412786c108c55890b827f7
