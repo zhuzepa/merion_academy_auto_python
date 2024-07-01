@@ -96,3 +96,7 @@ I
 pytest.ini,e\a\ea898f73cf4daab2e41a2c710093f364ce6a7d1b
 O
 lessons/lesson14/auth_test_1.py,2\1\21211c32dd2185b5ac84375dc631109c31597d67
+;
+conftest.py,1\e\1e4f0373b798e1c815760b0d5b71eed49df13ea5
+M
+lessons/lesson15/ebay_test.py,6\a\6aabcb20648e1228927ff8cffd2a1421b0aad9eb
