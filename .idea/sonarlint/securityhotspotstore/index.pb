@@ -104,3 +104,7 @@ R
 "home_work/hw9/task1/test_button.py,a\e\aec56583e95db4344595feac09e59349a6d5026b
 K
 home_work/hw9/task1/page.py,e\e\ee6996a1038ffdb9e7412786c108c55890b827f7
+P
+ home_work/hw9/task2/test_form.py,a\b\aba7b734259c724331265ff6f39835f796303168
+K
+home_work/hw9/task2/page.py,4\a\4a2d46137bf35c267e34fd0c38b480cb4edabebd

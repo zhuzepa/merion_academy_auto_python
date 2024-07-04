@@ -2,12 +2,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 
 
-class Form:
+class Page:
     def __init__(self, driver: WebDriver):
         self.driver = driver
 
     def open(self):
-        self.driver.get("https://bonigarcia.dev/selenium-webdriver-java/data-types.html")
+        self.driver.get('https://bonigarcia.dev/selenium-webdriver-java/data-types.html')
 
     def set_value_for(self, field_name, field_value):
         self.driver.find_element(By.CSS_SELECTOR, f'[name={field_name}]').send_keys(field_value)
