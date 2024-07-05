@@ -108,3 +108,17 @@ P
  home_work/hw9/task2/test_form.py,a\b\aba7b734259c724331265ff6f39835f796303168
 K
 home_work/hw9/task2/page.py,4\a\4a2d46137bf35c267e34fd0c38b480cb4edabebd
+K
+home_work/hw9/task3/page.py,0\0\006c5c0091061f46e10b6544b3d843d7fc5b3a14
+V
+&home_work/hw9/task3/calculator_test.py,0\b\0b281798a54934a5819b2110681a46ec18d2ae9c
+P
+ home_work/hw9/task4/test_shop.py,1\e\1e4e975543ff1c6afa7f17704a1dc4a6cbb93a25
+W
+'home_work/hw9/task4/task4_part2/main.py,7\1\711bc64e88038d33f0b77183a17075dfcc064119
+S
+#home_work/hw9/task4/contact_page.py,8\8\88ff12ae9f8de1c7d057cf3bd6fac900faeb007c
+Q
+!home_work/hw9/task4/final_page.py,3\3\33313d6cdb3168e0da816b5e797b9bb3bf48d1c1
+W
+'home_work/hw9/task4/checkout_coplete.py,3\2\32b72bc7bbbacd21e13bb26ee5cbadccb5d7ba44

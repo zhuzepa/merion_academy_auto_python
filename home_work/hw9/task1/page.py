@@ -10,7 +10,7 @@ class Page:
         self.driver.get('http://uitestingplayground.com/textinput')
 
     def send_text_button(self, value_button: str):
-        self.driver.find_element(By.CSS_SELECTOR, '').send_keys(value_button)
+        self.driver.find_element(By.CSS_SELECTOR, '#newButtonName').send_keys(value_button)
 
     def click_button(self):
         self.driver.find_element(By.CSS_SELECTOR, '.btn-primary').click()
