@@ -130,3 +130,9 @@ T
 $lessons/lesson18/employee_service.py,6\3\633e277b3ca4a25656a443355ad697d2bdf7b5ea
 H
 lessons/lesson18/main.py,4\2\42f7473e734619c93cbd08bd6f8c85cf7aa0b557
+J
+home_work/hw10/empliyee.py,d\5\d5cf818ee93d2269bc9d78eb68d35ec81e5572e5
+J
+home_work/hw10/employee.py,b\c\bc57ac617fdf8bd6e4fe913430c2ec589564c6f1
+F
+home_work/hw10/main.py,a\a\aab7d4f9c07100dc06ad3c202004f665df2bcaf0
