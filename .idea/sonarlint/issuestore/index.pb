@@ -114,11 +114,29 @@ V
 &home_work/hw9/task3/calculator_test.py,0\b\0b281798a54934a5819b2110681a46ec18d2ae9c
 P
  home_work/hw9/task4/test_shop.py,1\e\1e4e975543ff1c6afa7f17704a1dc4a6cbb93a25
-W
-'home_work/hw9/task4/task4_part2/main.py,7\1\711bc64e88038d33f0b77183a17075dfcc064119
 S
 #home_work/hw9/task4/contact_page.py,8\8\88ff12ae9f8de1c7d057cf3bd6fac900faeb007c
 Q
 !home_work/hw9/task4/final_page.py,3\3\33313d6cdb3168e0da816b5e797b9bb3bf48d1c1
 W
 'home_work/hw9/task4/checkout_coplete.py,3\2\32b72bc7bbbacd21e13bb26ee5cbadccb5d7ba44
+I
+lessons/lesson18/dicts.py,4\6\467bae58831b2b9fde432d074fd35a5e2f46e2fa
+P
+ lessons/lesson18/json_package.py,b\3\b3293fe9ced75cb4f8059323666aa946ead3a00c
+P
+ lessons/lesson18/try_requests.py,c\5\c5662194b05ac0a140fd3c5305b8cc5b07cec46a
+T
+$lessons/lesson18/employee_service.py,6\3\633e277b3ca4a25656a443355ad697d2bdf7b5ea
+H
+lessons/lesson18/main.py,4\2\42f7473e734619c93cbd08bd6f8c85cf7aa0b557
+J
+home_work/hw10/employee.py,b\c\bc57ac617fdf8bd6e4fe913430c2ec589564c6f1
+F
+home_work/hw10/main.py,a\a\aab7d4f9c07100dc06ad3c202004f665df2bcaf0
+X
+(lessons/lesson19/x_client_cmpany_test.py,5\a\5a5efa68ffeb781825349500607d3432f15aef86
+J
+home_work/hw11/employee.py,6\f\6fdb0b8d73f550391d7b6752f6020d04bf8f9c56
+O
+home_work/hw11/test_employee.py,3\d\3d568163f7fb4332fd8f3dbcafe27b2e289520e9
