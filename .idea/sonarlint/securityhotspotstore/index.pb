@@ -140,3 +140,9 @@ J
 home_work/hw11/employee.py,6\f\6fdb0b8d73f550391d7b6752f6020d04bf8f9c56
 O
 home_work/hw11/test_employee.py,3\d\3d568163f7fb4332fd8f3dbcafe27b2e289520e9
+M
+lessons/lesson21/db_lesson.py,0\1\01f7a5ccffb0f586ba4a423aa0e779b9ea7b2324
+T
+$home_work/hw11_2/employee_service.py,8\d\8d8371c843d462b7e3562992a333e206d0997d64
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
